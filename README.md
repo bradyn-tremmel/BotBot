@@ -1,0 +1,2 @@
+# BotBot
+Simple testing bot
